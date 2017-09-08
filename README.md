@@ -1,2 +1,0 @@
-# Monox
-Wordpress Site Example
